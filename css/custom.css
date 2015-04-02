@@ -1,9 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Custom Styles
-=======
-/*custom styles*/
->>>>>>> origin/gh-pages
-=======
-/*custom styles*/
->>>>>>> origin/gh-pages
+/*#project{
+	margin-top: 50px;
+}
+
+body{
+	position: relative;
+}*/
+
+body{
+	font-family: 'Lato', sans-serif;
+}
